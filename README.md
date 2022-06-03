@@ -17,7 +17,7 @@ Estudos de Node JS
 
 ---
 
-## Regras de negício
+## Regras de negócio
 
 - [X] Não deve ser possível cadastrar uma conta com CPF já existente
 - [X] Não deve ser possível buscar extrato em uma conta não existente
