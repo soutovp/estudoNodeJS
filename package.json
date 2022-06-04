@@ -20,6 +20,8 @@
   "homepage": "https://github.com/soutovp/estudoNodeJS#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "formidable": "^2.0.1",
+    "react": "^18.1.0",
     "upper-case": "^2.0.2",
     "uuid": "^8.3.2"
   }
