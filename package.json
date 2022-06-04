@@ -1,28 +1,26 @@
 {
-  "name": "estudonodejs",
-  "version": "1.0.0",
-  "description": "Estudos de Node JS",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/soutovp/estudoNodeJS.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/soutovp/estudoNodeJS/issues"
-  },
-  "homepage": "https://github.com/soutovp/estudoNodeJS#readme",
-  "dependencies": {
-    "express": "^4.18.1",
-    "formidable": "^2.0.1",
-    "react": "^18.1.0",
-    "upper-case": "^2.0.2",
-    "uuid": "^8.3.2"
-  }
+	"name": "estudonodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/soutovp/estudoNodeJS.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/soutovp/estudoNodeJS/issues"
+	},
+	"homepage": "https://github.com/soutovp/estudoNodeJS#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	},
+	"dependencies": {
+		"formidable": "^2.0.1",
+		"nodemailer": "^6.7.5"
+	}
 }
